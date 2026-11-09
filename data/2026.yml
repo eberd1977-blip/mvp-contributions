@@ -1,0 +1,50 @@
+- date: '2026-11-02'
+  type: Article/Blog
+  title: "Microsoft LiteBox: sandboxing local para agentes que escriben y ejecutan código"
+  area: Microsoft Security / AI Agents
+  language: Spanish
+  url: ""
+  metric: ""
+  role: Author
+  impact: Post comunitario sobre LiteBox v0.1.0 y su vínculo con Hyperlight/CodeAct en Agent Framework.
+  status: published
+- date: '2026-11-04'
+  type: Online Support
+  title: Azure OpenAI quota requests are not being approved
+  area: Microsoft Foundry / Azure OpenAI
+  language: English
+  url: "https://learn.microsoft.com/en-us/answers/questions/6060484/azure-openai-quota-requests-are-not-being-approved"
+  role: Answerer
+  status: published
+  metric: ""
+  impact: "Respuesta en Microsoft Q&A sobre tiers de cuota Foundry/Azure OpenAI y qué revisar antes de reintentar."
+- date: '2026-11-04'
+  type: Online Support
+  title: "File Shares HDD: read latency different by access tier?"
+  area: Azure Storage (Azure Files)
+  language: English
+  url: "https://learn.microsoft.com/en-us/answers/questions/6025969/file-shares-hdd-read-latency-different-by-access-t"
+  role: Answerer
+  status: published
+  metric: ""
+  impact: "Respuesta en Microsoft Q&A aclarando que la latencia de Azure Files HDD no cambia por access tier."
+- date: '2026-11-04'
+  type: Online Support
+  title: Flex Consumption scales beyond maximumInstanceCount
+  area: Azure Functions
+  language: English
+  url: "https://learn.microsoft.com/en-us/answers/questions/6060474/flex-consumption-scales-beyond-maximuminstancecoun"
+  role: Answerer
+  status: published
+  metric: ""
+  impact: "Respuesta técnica en Microsoft Q&A sobre el techo real de maximumInstanceCount en Flex Consumption."
+- date: '2026-11-06'
+  type: Article/Blog
+  title: "Microsoft Execution Containers (MXC) en GA: contención del SO para agentes locales en Windows"
+  area: Microsoft Security / Windows AI Agents
+  language: Spanish
+  url: "https://www.linkedin.com/feed/update/urn:li:ugcPost:7524470068639125504/"
+  metric: ""
+  role: Author
+  impact: "Post comunitario explicando MXC GA (Process/AppContainer, Session, WSL, MicroVM) para limitar agentes locales."
+  status: published
