@@ -3,8 +3,8 @@
   title: "Microsoft LiteBox: sandboxing local para agentes que escriben y ejecutan código"
   area: Microsoft Security / AI Agents
   language: Spanish
-  url: ""
-  metric: ""
+  url: "https://www.linkedin.com/feed/update/urn:li:activity:7523023921315540993/"
+  metric: "LinkedIn al 2026-11-15: 137 impresiones, 47 miembros alcanzados, 1 reacción, 32 vistas de video (9 s promedio)"
   role: Author
   impact: Post comunitario sobre LiteBox v0.1.0 y su vínculo con Hyperlight/CodeAct en Agent Framework.
   status: published
@@ -44,7 +44,217 @@
   area: Microsoft Security / Windows AI Agents
   language: Spanish
   url: "https://www.linkedin.com/feed/update/urn:li:ugcPost:7524470068639125504/"
-  metric: ""
+  metric: "LinkedIn al 2026-11-15: 163 impresiones, 94 miembros alcanzados, 0 reacciones, 1 repost, 58 vistas de video (23 s promedio)"
   role: Author
   impact: "Post comunitario explicando MXC GA (Process/AppContainer, Session, WSL, MicroVM) para limitar agentes locales."
   status: published
+- date: '2026-11-09'
+  type: Article/Blog
+  title: "Work IQ en GA en Microsoft Copilot Studio: agentes con el contexto de Microsoft 365"
+  area: Copilot Studio
+  language: Spanish
+  url: "https://www.linkedin.com/feed/update/urn:li:activity:7525558902965460992/"
+  metric: "LinkedIn al 2026-11-22: 141 impresiones, 66 miembros alcanzados, 3 reacciones, 54 vistas de video (28 s promedio)"
+  role: Author
+  impact: "Post comunitario con video sobre Work IQ GA en Copilot Studio y cómo elegir los workloads de cada agente."
+  status: published
+- date: '2026-11-09'
+  type: Online Support
+  title: "Startup sponsorship subscription: 0 quota for all Azure OpenAI models except gpt-5-mini"
+  area: Microsoft Foundry / Azure OpenAI
+  language: English
+  url: "https://learn.microsoft.com/en-us/answers/questions/6065489/startup-sponsorship-subscription-0-quota-for-all-a#answer-13039083"
+  role: Answerer
+  status: published
+  metric: ""
+  impact: "Respuesta en Microsoft Q&A: Free tier (Tier 0) de cuotas Foundry, cómo ver el tier, soporte del programa Startups y cobertura de créditos."
+- date: '2026-11-09'
+  type: Online Support
+  title: "Can customers audit the actual inference region of Azure OpenAI Global deployments?"
+  area: Microsoft Foundry / Azure OpenAI (data residency)
+  language: English
+  url: "https://learn.microsoft.com/en-us/answers/questions/6062046/can-customers-audit-the-actual-inference-region-of#answer-13039092"
+  role: Answerer
+  status: published
+  metric: ""
+  impact: "Respuesta en Microsoft Q&A: la región real de inferencia Global no es auditable; usar Data Zone/Standard y Azure Policy."
+- date: '2026-11-10'
+  type: Article/Blog
+  title: "Microsoft Entra Conditional Access policy plans en public preview"
+  area: Azure / Microsoft Entra (identidad)
+  language: Spanish
+  url: "https://www.linkedin.com/feed/update/urn:li:share:7525917497309605889/"
+  metric: "LinkedIn al 2026-11-22: 129 impresiones, 61 miembros alcanzados, 2 reacciones"
+  role: Author
+  impact: "Post comunitario con captura oficial sobre policy plans de Conditional Access: exclusiones centralizadas y migración validada en report-only."
+  status: published
+- date: '2026-11-11'
+  type: Online Support
+  title: "gpt-image-1.5 DataZoneStandard: retirement date mismatch (2026-12-16 vs 2027-06-16) and no EU Data Zone successor"
+  area: Microsoft Foundry / Azure OpenAI (lifecycle, data residency)
+  language: English
+  url: "https://learn.microsoft.com/en-us/answers/questions/6067760/gpt-image-1-5-datazonestandard-retirement-date-mis#answer-13042442"
+  role: Answerer
+  status: published
+  metric: ""
+  impact: "Respuesta en Microsoft Q&A: deprecation.inference es fecha de retiro, planificar para la más temprana, Service Health y sin alternativa de imagen solo-UE documentada."
+- date: '2026-11-11'
+  type: Online Support
+  title: "Azure OpenAI: gpt-6.1-sol cannot be deployed – new subscription on Free Tier with 0 quota"
+  area: Microsoft Foundry / Azure OpenAI (quotas)
+  language: English
+  url: "https://learn.microsoft.com/en-us/answers/questions/6067726/azure-openai-gpt-6-1-sol-cannot-be-deployed-new-su#answer-13042446"
+  role: Answerer
+  status: published
+  metric: ""
+  impact: "Respuesta en Microsoft Q&A: el bloqueo es el Free Tier (Tier 0), elegibilidad por suscripción y qué pedir en el caso de soporte."
+- date: '2026-11-11'
+  type: Online Support
+  title: "How can we disable prompt and response content in Foundry responsesapi traces while keeping operational telemetry?"
+  area: Microsoft Foundry / Azure Monitor (observability, RBAC)
+  language: English
+  url: "https://learn.microsoft.com/en-us/answers/questions/6063466/how-can-we-disable-prompt-and-response-content-in#answer-13042448"
+  role: Answerer
+  status: published
+  metric: ""
+  impact: "Respuesta en Microsoft Q&A: sin switch documentado; Protected tables para AppGenAIContent, DCR en AppDependencies, retención corta y OTLP."
+- date: '2026-11-11'
+  type: Article/Blog
+  title: "Modelos de video de fal en Microsoft Foundry (public preview)"
+  area: Microsoft Foundry / AI
+  language: Spanish
+  url: "https://www.linkedin.com/feed/update/urn:li:activity:7526379461513125889/"
+  metric: "LinkedIn al 2026-11-22: 51 impresiones, 32 miembros alcanzados, 1 reacción, 24 vistas de video (13 s promedio)"
+  role: Author
+  impact: "Post comunitario con video sobre los 5 modelos de generación de video de fal (Kling, LTX-2.5, MiniMax H3) en el catálogo de Foundry."
+  status: published
+- date: '2026-11-12'
+  type: Article/Blog
+  title: "Microsoft Defender descubre agentes de IA locales y sus servidores MCP (GA)"
+  area: Microsoft Security / Defender (AI agents)
+  language: Spanish
+  url: "https://www.linkedin.com/feed/update/urn:li:activity:7526657197070512128/"
+  metric: "LinkedIn al 2026-11-22: 257 impresiones, 147 miembros alcanzados, 0 reacciones"
+  role: Author
+  impact: "Post comunitario con captura oficial sobre el inventario de agentes de IA locales y servidores MCP en Defender."
+  status: published
+- date: '2026-11-13'
+  type: Article/Blog
+  title: "GitHub Copilot + Foundry Local con Qwen3.8-27B: contexto del repo sin salir de tu máquina"
+  area: Microsoft Foundry / GitHub Copilot
+  language: Spanish
+  url: "https://www.linkedin.com/feed/update/urn:li:activity:7527006057932406784/"
+  metric: "LinkedIn al 2026-11-22: 119 impresiones, 76 miembros alcanzados, 3 reacciones, 1 comentario, 39 vistas de video (14 s promedio)"
+  role: Author
+  impact: "Post comunitario con video sobre usar Foundry Local como modelo local para GitHub Copilot."
+  status: published
+- date: '2026-11-16'
+  type: Online Support
+  title: "Azure OpenAI image generation models quotas explanation (gpt-image-1.5 n images vs RPM)"
+  area: Azure OpenAI / Microsoft Foundry (quotas)
+  language: English
+  url: "https://learn.microsoft.com/en-us/answers/questions/6073181/azure-openai-image-generation-models-quotas-explan#answer-13051346"
+  role: Answerer
+  status: published
+  metric: ""
+  impact: "Respuesta en Microsoft Q&A: separa lo documentado (n por request, RPM del deployment, 5 imágenes/min por defecto) de lo no documentado, con plan de prueba y pedido de cuota."
+- date: '2026-11-16'
+  type: Online Support
+  title: "How can we retrieve a complete MCP tool inventory mapped to individual Copilot Studio agents?"
+  area: Copilot Studio / Power Platform governance (MCP)
+  language: English
+  url: "https://learn.microsoft.com/en-us/answers/questions/6070573/how-can-we-retrieve-a-complete-mcp-tool-inventory#answer-13051354"
+  role: Answerer
+  status: published
+  metric: ""
+  impact: "Respuesta en Microsoft Q&A: inventario de Power Platform (Resource Graph) para agente-conector MCP, conector para endpoint/auth y telemetría ExecuteTool para el mapeo real."
+- date: '2026-11-16'
+  type: Article/Blog
+  title: "Claude Fable 5.2 llega a Microsoft Copilot (Cowork y Copilot Studio)"
+  area: Microsoft Copilot / Copilot Studio
+  language: Spanish
+  url: "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528090004900802561/"
+  metric: "LinkedIn al 2026-11-22: 70 impresiones, 25 miembros alcanzados, 1 reacción, 21 vistas de video (10 s promedio)"
+  role: Author
+  impact: "Post comunitario con video sobre la llegada de Claude Fable 5.2 a Copilot Cowork y Copilot Studio, con Work IQ y control del admin."
+  status: published
+- date: '2026-11-16'
+  type: Article/Blog
+  title: "Nueva acreditación: Azure Databricks Platform Architect (Databricks Academy)"
+  area: Azure / Data & AI
+  language: Spanish
+  url: "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528237408321024000/"
+  metric: "LinkedIn al 2026-11-22: 84 impresiones, 23 miembros alcanzados, 1 reacción, 24 vistas de video (17 s promedio), 2 clics"
+  role: Author
+  impact: "Post con video compartiendo la acreditación Azure Databricks Platform Architect (credencial 1f0498d1-4025-4135-9942-dd1b9008540f)."
+  status: published
+- date: '2026-11-17'
+  type: Article/Blog
+  title: "Copilot Studio MCP: Copilot Studio desde GitHub Copilot, Claude Code y Codex"
+  area: Copilot Studio / GitHub Copilot (MCP)
+  language: Spanish
+  url: "https://www.linkedin.com/feed/update/urn:li:share:7528513098803154945/"
+  metric: "LinkedIn al 2026-11-22: 171 impresiones, 80 miembros alcanzados, 4 reacciones, 1 repost, 1 clic"
+  role: Author
+  impact: "Post comunitario con captura oficial sobre el servidor MCP de Copilot Studio para crear, probar y publicar agentes desde el editor."
+  status: published
+- date: '2026-11-18'
+  type: Article/Blog
+  title: "Mejora continua en Microsoft Foundry: Insights y agent optimizer (Ignite 2026)"
+  area: AI Platform / Microsoft Foundry
+  language: Spanish
+  url: "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528814424652931073/"
+  metric: "LinkedIn al 2026-11-22: 45 impresiones, 19 miembros alcanzados, 0 reacciones, 14 vistas de video (18 s promedio)"
+  role: Author
+  impact: "Post comunitario con video sobre el ciclo de mejora continua de agentes en Foundry anunciado en Ignite 2026: Insights, agent optimizer y validación con evaluaciones."
+  status: published
+- date: '2026-11-18'
+  type: Online Support
+  title: "Disk Storage: Unable to resize Premium V2 disk — Error with dataDisk.diskIOPSReadWrite and empty storage account type"
+  area: Azure infrastructure / Disk Storage (Premium SSD v2)
+  language: English
+  url: "https://learn.microsoft.com/en-us/answers/questions/6075443/disk-storage-unable-to-resize-premium-v2-disk-erro#answer-13054426"
+  role: Answerer
+  status: published
+  metric: ""
+  impact: "Respuesta en Microsoft Q&A: redimensionar desde el recurso del disco o az disk update solo con --size-gb, más los límites documentados (4 cambios/24 h, background copy, cuota regional, NVMe) y el rescan."
+- date: '2026-11-18'
+  type: Online Support
+  title: "Security Copilot (activer les SCU incluses avec Microsoft 365 E5)"
+  area: Microsoft Copilot / Security Copilot (licenciamiento y aprovisionamiento)
+  language: French
+  url: "https://learn.microsoft.com/en-us/answers/questions/6075370/security-copilot#answer-13054436"
+  role: Answerer
+  status: published
+  metric: ""
+  impact: "Respuesta en Microsoft Q&A: la inclusión E5 se aprovisiona sola y por etapas, no hay que crear capacidad en Azure (eso es el modelo pago), cómo ver si el tenant está habilitado y que 5 licencias dan unas 2 SCU/mes."
+- date: '2026-11-18'
+  type: Open Source Project
+  title: "Traductor de voz para reuniones español-inglés (v4) - repo público + post LinkedIn"
+  area: AI Platform / Microsoft Foundry (Speech + GPT Realtime)
+  language: Spanish
+  url: "https://github.com/eberd1977-blip/traductor-de-voz-para-reuniones-espanol-ingles"
+  metric: ""
+  role: Author
+  impact: "App para Windows que traduce en vivo español-inglés en cualquier videollamada (Zoom, Teams, Meet, WhatsApp) con Foundry Speech, GPT Realtime y Virtual Audio Cable. Repo público desde el 18 nov 2026 con release v4.0.0; post de LinkedIn planificado para la semana del 23 nov 2026."
+  status: published
+- date: '2026-11-19'
+  type: Article/Blog
+  title: "Copilot Code en Microsoft 365 Copilot: apps, dashboards y widgets con lenguaje natural (Ignite 2026)"
+  area: Microsoft 365 Copilot
+  language: Spanish
+  url: "https://www.linkedin.com/feed/update/urn:li:activity:7529166269980303360/"
+  metric: "LinkedIn al 2026-11-22: 71 impresiones, 33 miembros alcanzados, 2 reacciones, 28 vistas de video (7 s promedio)"
+  role: Author
+  impact: "Post comunitario con video sobre Copilot Code anunciado en Ignite 2026: apps alojadas en el tenant con Copilot Managed Runtime (GA) y gestionadas desde el centro de administración de Microsoft 365."
+  status: published
+- date: '2026-11-20'
+  type: Online Support
+  title: "Azure vWAN hub connection pricing (cross-tenant hub virtual network connection)"
+  area: Azure infrastructure / Virtual WAN (networking, costos)
+  language: English
+  url: "https://learn.microsoft.com/en-us/answers/questions/6077272/azure-vwan-hub-connection-pricing#answer-13057501"
+  role: Answerer
+  status: published
+  metric: ""
+  impact: "Respuesta en Microsoft Q&A: sin recargo cross-tenant ni connection unit por VNet connection; peering in/out lo paga la VNet propia, hub deployment y data processing el dueño del hub, inter-region aparte, excepción de private endpoints y validación con Cost Analysis."
