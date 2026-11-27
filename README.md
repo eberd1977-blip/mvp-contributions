@@ -12,11 +12,13 @@ Tracker público de contribuciones comunitarias hacia Microsoft MVP
 
 ## 2026
 
-26 entradas publicadas:
+37 entradas publicadas:
 
-- 12 Article/Blog
-- 13 Online Support
+- 16 Article/Blog
+- 17 Online Support
 - 1 Open Source Project
+- 2 Open Source / Sample Code
+- 1 Product Feedback / Open Source
 
 | Fecha | Tipo | Título | Plataforma | Métrica |
 | --- | --- | --- | --- | --- |
@@ -46,6 +48,17 @@ Tracker público de contribuciones comunitarias hacia Microsoft MVP
 | 2026-11-18 | Open Source Project | [Traductor de voz para reuniones español-inglés (v4) - repo público + post LinkedIn](https://github.com/eberd1977-blip/traductor-de-voz-para-reuniones-espanol-ingles) | GitHub | **pending** |
 | 2026-11-19 | Article/Blog | [Copilot Code en Microsoft 365 Copilot: apps, dashboards y widgets con lenguaje natural (Ignite 2026)](https://www.linkedin.com/feed/update/urn:li:activity:7529166269980303360/) | LinkedIn | LinkedIn al 2026-11-22: 71 impresiones, 33 miembros alcanzados, 2 reacciones, 28 vistas de video (7 s promedio) |
 | 2026-11-20 | Online Support | [Azure vWAN hub connection pricing (cross-tenant hub virtual network connection)](https://learn.microsoft.com/en-us/answers/questions/6077272/azure-vwan-hub-connection-pricing#answer-13057501) | Microsoft Q&A | **pending** |
+| 2026-11-23 | Article/Blog | [Microsoft 365 Resources for Agents: tu agente con cuenta, casilla, calendario y OneDrive propios (Ignite 2026)](https://www.linkedin.com/feed/update/urn:li:activity:7530642364302942208/) | LinkedIn | **pending** |
+| 2026-11-23 | Online Support | [Azure OpenAI: Machine-readable output marking — Inquiry about current capabilities and regional support](https://learn.microsoft.com/en-us/answers/questions/6079807/azure-openai-machine-readable-output-marking-inqui#answer-13061071) | Microsoft Q&A | **pending** |
+| 2026-11-23 | Online Support | [Power Bi Pro to Fabric for Copilot use (F2 vs P1 para 6 usuarios Pro con gateway)](https://learn.microsoft.com/en-us/answers/questions/6076326/power-bi-pro-to-fabric-for-copilot-use#answer-13061077) | Microsoft Q&A | **pending** |
+| 2026-11-25 | Open Source / Sample Code | [Azure-Samples/azuresandbox PR #1106: rg-devops-iac: validate required project and environment tags](https://github.com/Azure-Samples/azuresandbox/pull/1106) | GitHub | **pending** |
+| 2026-11-25 | Open Source / Sample Code | [Azure-Samples/azuresandbox PR #1107: Enable Microsoft Entra ID authentication for MySQL Flexible Server](https://github.com/Azure-Samples/azuresandbox/pull/1107) | GitHub | **pending** |
+| 2026-11-25 | Product Feedback / Open Source | [Azure/bicep-registry-modules #7566: Azure Files ACL configuration for FSLogix](https://github.com/Azure/bicep-registry-modules/issues/7566#issuecomment-7172030250) | GitHub | **pending** |
+| 2026-11-27 | Online Support | [Performance and token limit differences between Global and Sweden (GPT-5.1) deployments](https://learn.microsoft.com/en-us/answers/questions/6081001/performance-and-token-limit-differences-between-gl) | Microsoft Q&A | **pending** |
+| 2026-11-27 | Online Support | [Query on data security and confidentiality for Copilot Studio](https://learn.microsoft.com/en-us/answers/questions/6082253/query-on-data-security-and-confidentiality-for-cop) | Microsoft Q&A | **pending** |
+| 2026-11-24 | Article/Blog | [Traductor de voz para reuniones español-inglés con Azure AI Foundry: demo en video](https://www.linkedin.com/feed/update/urn:li:activity:7531022051072196608/) | LinkedIn | **pending** |
+| 2026-11-26 | Article/Blog | [Autopilot en Microsoft Copilot (Frontier): agente personal en la nube con identidad y memoria propias](https://www.linkedin.com/posts/eberdperez_microsoft365copilot-aiagents-futureofwork-share-7531738672795381760-J2ri/) | LinkedIn | **pending** |
+| 2026-11-27 | Article/Blog | [Office in Copilot en GA: Word, Excel y PowerPoint dentro de la app de Copilot](https://www.linkedin.com/feed/update/urn:li:ugcPost:7532075975682170882/) | LinkedIn | **pending** |
 
 ## Repo
 

@@ -258,3 +258,113 @@
   status: published
   metric: ""
   impact: "Respuesta en Microsoft Q&A: sin recargo cross-tenant ni connection unit por VNet connection; peering in/out lo paga la VNet propia, hub deployment y data processing el dueño del hub, inter-region aparte, excepción de private endpoints y validación con Cost Analysis."
+- date: '2026-11-23'
+  type: Article/Blog
+  title: "Microsoft 365 Resources for Agents: tu agente con cuenta, casilla, calendario y OneDrive propios (Ignite 2026)"
+  area: Copilot Studio / Microsoft 365 agents
+  language: Spanish
+  url: "https://www.linkedin.com/feed/update/urn:li:activity:7530642364302942208/"
+  metric: ""
+  role: Author
+  impact: "Post comunitario con video: qué es nuevo (identidad M365 para agentes propios, 100 Copilot Credits/agente/mes + uso) vs. qué no; fechas de preview en Frontier (Autopilot 24/11, Copilot Studio 1/12, Foundry sin fecha) y link a sesión oficial de Ignite."
+  status: published
+- date: '2026-11-23'
+  type: Online Support
+  title: "Azure OpenAI: Machine-readable output marking — Inquiry about current capabilities and regional support"
+  area: Microsoft Foundry / Azure OpenAI (content provenance, EU AI Act)
+  language: English
+  url: "https://learn.microsoft.com/en-us/answers/questions/6079807/azure-openai-machine-readable-output-marking-inqui#answer-13061071"
+  role: Answerer
+  status: published
+  metric: ""
+  impact: "Respuesta en Microsoft Q&A: text watermarking por deployment (properties.textWatermarking, gpt-6.2-sol/astra soportados, resto planned), audio provenance solo gpt-audio/MAI-Voice/Speech (no gpt-live-1 ni gpt-realtime-1.5), C2PA en imágenes, sin matriz por región."
+- date: '2026-11-23'
+  type: Online Support
+  title: "Power Bi Pro to Fabric for Copilot use (F2 vs P1 para 6 usuarios Pro con gateway)"
+  area: Fabric AI / Copilot in Power BI (capacidades y licenciamiento)
+  language: English
+  url: "https://learn.microsoft.com/en-us/answers/questions/6076326/power-bi-pro-to-fabric-for-copilot-use#answer-13061077"
+  role: Answerer
+  status: published
+  metric: ""
+  impact: "Respuesta en Microsoft Q&A: F2 como opción (P SKU en retiro, P1 = F64), mantener Pro por debajo de F64, tenant settings de Copilot, gateway y refresh, consumo de CU con Capacity Metrics y pausa en pay-as-you-go."
+- date: '2026-11-25'
+  type: Open Source / Sample Code
+  title: "Azure-Samples/azuresandbox PR #1106: rg-devops-iac: validate required project and environment tags"
+  area: Azure infrastructure / Terraform (rg-devops-iac)
+  language: English
+  url: "https://github.com/Azure-Samples/azuresandbox/pull/1106"
+  metric: ""
+  role: Contributor
+  impact: "PR en Azure-Samples/azuresandbox (fix #1084): agrega validación de las claves obligatorias project y environment en var.tags de rg-devops-iac."
+  status: published
+- date: '2026-11-25'
+  type: Open Source / Sample Code
+  title: "Azure-Samples/azuresandbox PR #1107: Enable Microsoft Entra ID authentication for MySQL Flexible Server"
+  area: Azure Database for MySQL / Terraform (Entra ID)
+  language: English
+  url: "https://github.com/Azure-Samples/azuresandbox/pull/1107"
+  metric: ""
+  role: Contributor
+  impact: "PR en Azure-Samples/azuresandbox (issue #1072): habilita autenticación Microsoft Entra-only (aad_auth_only = ON) en modules/mysql con UAMI, grp-sql-admins-* y documentación de prerequisitos."
+  status: published
+- date: '2026-11-25'
+  type: Product Feedback / Open Source
+  title: "Azure/bicep-registry-modules #7566: Azure Files ACL configuration for FSLogix"
+  area: Azure Verified Modules / AVD + Azure Files
+  language: English
+  url: "https://github.com/Azure/bicep-registry-modules/issues/7566#issuecomment-7172030250"
+  metric: ""
+  role: Contributor
+  impact: "Feedback de producto/patrón AVM para ACLs de FSLogix en Azure Files (raíz del share, UAMI con Storage File Data Privileged Contributor, deploymentScripts PS7 vía OAuth over REST y reconciliación no recursiva)."
+  status: published
+- date: '2026-11-27'
+  type: Online Support
+  title: "Performance and token limit differences between Global and Sweden (GPT-5.1) deployments"
+  area: Azure OpenAI in Foundry Models (deployment types, quotas, latency)
+  language: English
+  url: "https://learn.microsoft.com/en-us/answers/questions/6081001/performance-and-token-limit-differences-between-gl"
+  role: Answerer
+  status: published
+  metric: ""
+  impact: "Respuesta en Microsoft Q&A: Global vs Data Zone vs Standard, cuotas TPM/RPM de gpt-5.1, latencia de red India-Europa, métricas de Azure Monitor para medir y recomendación según requisito de procesamiento en la UE."
+- date: '2026-11-27'
+  type: Online Support
+  title: "Query on data security and confidentiality for Copilot Studio"
+  area: Copilot Studio (seguridad, residencia de datos, DLP)
+  language: English
+  url: "https://learn.microsoft.com/en-us/answers/questions/6082253/query-on-data-security-and-confidentiality-for-cop"
+  role: Answerer
+  status: published
+  metric: ""
+  impact: "Respuesta en Microsoft Q&A: Copilot Studio no entrena modelos con datos del cliente, residencia en el entorno de Power Platform, autenticación Entra ID, DLP, CMK/Lockbox/auditoría y pasos antes de conectar datos reales."
+- date: '2026-11-24'
+  type: Article/Blog
+  title: "Traductor de voz para reuniones español-inglés con Azure AI Foundry: demo en video"
+  area: Microsoft Foundry / Azure AI Speech
+  language: Spanish
+  url: "https://www.linkedin.com/feed/update/urn:li:activity:7531022051072196608/"
+  metric: ""
+  role: Author
+  impact: "Post comunitario con video de demo del traductor open source (MIT) con Azure AI Speech y GPT Realtime Translate de Foundry."
+  status: published
+- date: '2026-11-26'
+  type: Article/Blog
+  title: "Autopilot en Microsoft Copilot (Frontier): agente personal en la nube con identidad y memoria propias"
+  area: Microsoft Copilot / AI Agents
+  language: Spanish
+  url: "https://www.linkedin.com/posts/eberdperez_microsoft365copilot-aiagents-futureofwork-share-7531738672795381760-J2ri/"
+  metric: ""
+  role: Author
+  impact: "Post comunitario con captura sobre Autopilot en Copilot y cómo delegar pendientes en lenguaje natural."
+  status: published
+- date: '2026-11-27'
+  type: Article/Blog
+  title: "Office in Copilot en GA: Word, Excel y PowerPoint dentro de la app de Copilot"
+  area: Microsoft Copilot / Microsoft 365
+  language: Spanish
+  url: "https://www.linkedin.com/feed/update/urn:li:ugcPost:7532075975682170882/"
+  metric: ""
+  role: Author
+  impact: "Post comunitario con video sobre coautoría de documentos de Office dentro de Copilot."
+  status: published
